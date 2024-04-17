@@ -36,7 +36,8 @@ else
    cout<<"User capacity reached,cannot register more users."<<endl;
  }
 }
-// meet write here
+// Method to change password for a given username
+void 
 };
 
 int main()
